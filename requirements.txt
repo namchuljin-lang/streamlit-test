@@ -1,1 +1,8 @@
+langchain==0.2.6
+langchain-openai
+langchain-community==0.2.6
+langchain_teddynote
 streamlit
+faiss-cpu
+pypdf
+google-search-results
